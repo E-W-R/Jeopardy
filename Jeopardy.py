@@ -1,5 +1,3 @@
-## Only works on 3.9.7 for some reason
-
 import requests
 from bs4 import BeautifulSoup
 import random
